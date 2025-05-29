@@ -1,0 +1,162 @@
+# info1v_8a
+Q1 - Escreva um algoritmo que calcule a soma de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a soma deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b];
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
+
+
+
+
+EXERCÍCIOSSS- Aula 08(refinamentos)
+Q1 - Escreva um algoritmo que calcule a diferença de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a diferença desses números;
+
+Q2 - Escreva um algoritmo que calcule a diferença de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a diferença desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', cacule a diferença deles e mostre o resultado.
+
+
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a diferença de 'a' mais 'b';
+    3. Mostre o resultado dessa diferença.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a diferença de [a] - [b];
+    3. Mostre o resultado dessa diferença.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [diferença] = [a] + [b];
+    3. Mostre a [diferença].
+
+    Refinando o 'código':
+
+    1. Ler [a];   # read [a]   scan [a]   input [a]                
+    2. Ler [b];
+    3. [soma] = [a] - [b];
+    4. Mostre [diferença].  # print [diferença]    show [diferença]     output [diferença]
+
+------------exercícios1.2---------------
+Q1 - Escreva um algoritmo que calcule o produto de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o produto desses números;
+
+Q2 - Escreva um algoritmo que calcule o produto de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o produto desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', cacule o produto deles e mostre o resultado.
+
+
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o produto de 'a' multiplicando 'b';
+    3. Mostre o resultado desse produto.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o produto de [a] x [b];
+    3. Mostre o resultado desse produto.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o [produto] = [a] x [b];
+    3. Mostre o [produto].
+
+    Refinando o 'código':
+
+    1. Ler [a];   # read [a]   scan [a]   input [a]                
+    2. Ler [b];
+    3. [soma] = [a] x [b];
+    4. Mostre o [produto].  # print [produto]    show [produto]     output [produto]
+
+
+---------exercícios----------
+Q1 - Escreva um algoritmo que calcule a divisão de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a divisão desses números;
+
+Q2 - Escreva um algoritmo que calcule a divisão de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a divisão desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', cacule a divisão deles e mostre o resultado.
+
+
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a divisão de 'a' mais 'b';
+    3. Mostre o resultado dessa divisão.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a divisão entre [a]e [b];
+    3. Mostre o resultado dessa divisão.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] : [b];
+    3. Mostre [soma].
+
+    Refinando o 'código':
+
+    1. Ler [a];   # read [a]   scan [a]   input [a]                
+    2. Ler [b];
+    3. [soma] = [a] + [b];
+    4. Mostre [divisão].  # print [divisão]    show [divisão]     output [divisão]
